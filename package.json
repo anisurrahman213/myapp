@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "date-format": "^4.0.14",
+    "react-google-login": "^5.2.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
